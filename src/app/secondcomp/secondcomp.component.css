@@ -1,0 +1,9 @@
+h3 {
+  text-align: center;
+}
+
+.center {
+  display: red;
+  margin-left: auto;
+  width: 30%;
+}
